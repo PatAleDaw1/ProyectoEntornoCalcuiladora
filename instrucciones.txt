@@ -1,0 +1,9 @@
+- INSTRUCCIONES - 
+
+a. nombres de las variables: num1 y num2
+b. Se debera usar switch-case
+c. El numero de cada caso tiene que coincidir con la funcion que se corresponde:
+	1. Resta
+	2. Division
+	3. Suma
+	4. Multiplicacion
