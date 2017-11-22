@@ -15,7 +15,13 @@ public class calculadora {
 			op=teclado.nextInt();
 			
 			switch(op){
-			case 1:
+			case 1://suma
+				System.out.println("Primer número");
+				num1 = teclado.nextInt();
+				System.out.println("Segundo número");
+				num2 = teclado.nextInt();
+				resultado = num1 + num2;
+				System.out.println("El resultado es " + resultado);
 				break;
 			case 2:
 				System.out.println("dime los numeros que quieres restar");
