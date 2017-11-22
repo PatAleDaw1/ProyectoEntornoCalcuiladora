@@ -1,0 +1,19 @@
+package calculadora;
+import java.util.*;
+public class calculadora {
+
+	public static void main(String[] args) {
+		Scanner teclado=new Scanner(System.in);
+		int num1, num2;
+		
+		System.out.println("Dame un numero por teclado");
+		num1= teclado.nextInt();
+		System.out.println("Dame un numero por teclado");
+		num2= teclado.nextInt();
+		
+		
+		
+		
+	}//main
+
+}//class
